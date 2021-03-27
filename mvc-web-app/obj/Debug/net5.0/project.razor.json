@@ -15603,6 +15603,11 @@
   "RootNamespace": "mvc_web_app",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\tonyc\\Documents\\WebDevelopment\\DOTNET\\firstProj\\mvc-web-app\\Views\\Movies\\Details.cshtml",
+      "TargetPath": "Views\\Movies\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\tonyc\\Documents\\WebDevelopment\\DOTNET\\firstProj\\mvc-web-app\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
@@ -15610,6 +15615,11 @@
     {
       "FilePath": "c:\\Users\\tonyc\\Documents\\WebDevelopment\\DOTNET\\firstProj\\mvc-web-app\\Views\\HelloWorld\\Index.cshtml",
       "TargetPath": "Views\\HelloWorld\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\tonyc\\Documents\\WebDevelopment\\DOTNET\\firstProj\\mvc-web-app\\Views\\Movies\\Edit.cshtml",
+      "TargetPath": "Views\\Movies\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15628,6 +15638,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\tonyc\\Documents\\WebDevelopment\\DOTNET\\firstProj\\mvc-web-app\\Views\\Movies\\Index.cshtml",
+      "TargetPath": "Views\\Movies\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\tonyc\\Documents\\WebDevelopment\\DOTNET\\firstProj\\mvc-web-app\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
@@ -15640,6 +15655,16 @@
     {
       "FilePath": "c:\\Users\\tonyc\\Documents\\WebDevelopment\\DOTNET\\firstProj\\mvc-web-app\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\tonyc\\Documents\\WebDevelopment\\DOTNET\\firstProj\\mvc-web-app\\Views\\Movies\\Create.cshtml",
+      "TargetPath": "Views\\Movies\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\tonyc\\Documents\\WebDevelopment\\DOTNET\\firstProj\\mvc-web-app\\Views\\Movies\\Delete.cshtml",
+      "TargetPath": "Views\\Movies\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
